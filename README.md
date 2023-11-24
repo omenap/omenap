@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Paul, I am an Embedded systems software developer, and budding Data analyst
+ My name is Paul, I am an Embedded systems software developer, And a software engineer
 - C++ | Data Science 
 
 ![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=omenap&show_icons=true&theme=radical)
